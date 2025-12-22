@@ -43,15 +43,15 @@ async function getServerData() {
         if (hasPlayers) {
             const sorted = state.players.sort((a, b) => (b.score || 0) - (a.score || 0) || (b.time || 0) - (a.time || 0));
             
-            text += `#   TIME    K    NAME\n\n`;
+            text += `#   🕗    💀    😈\n`;
             sorted.forEach((p, i) => {
                 const rawScore = (p.raw.score ?? 0);
                 const rawTime = (p.raw.time ?? 0);
                 const num = (i + 1).toString().padEnd(4);
-                const score = rawScore.toString().padEnd(5);
+                const score = rawScore.toString().padEnd(8);
                 const hours = Math.floor(rawTime / 3600);
                 const mins = Math.floor((rawTime % 3600) / 60);
-                const timeStr = `${hours}ч ${mins}м`.padEnd(8);
+                const timeStr = `${hours}ч ${mins}м`.padEnd(11);
                 const safeName = p.name || '<подключение>'; 
                 text += `${num}${timeStr}${score}${safeName}\n`;
             });
