@@ -34,11 +34,11 @@ async function getServerData() {
         
         // Формируем текстовый блок
         let text = '';
-        text += `СЕРВЕР:  ${state.name}\n`;
-        text += `АДРЕС:   ${state.connect}\n`;
-        text += `КАРТА:   ${state.map}\n`;
-        text += `ИГРОКИ:  ${state.players.length} / ${state.maxplayers}\n`;
-        text += `ПИНГ:    ${state.ping} ms\n`;
+        text += `Server:  ${state.name}\n`;
+        text += `IP:      ${state.connect}\n`;
+        text += `Map:     ${state.map}\n`;
+        text += `Players: ${state.players.length} / ${state.maxplayers}\n`;
+        text += `Ping:    ${state.ping} ms\n`;
         text += `--------------------------------------\n`;
 
         if (hasPlayers) {
@@ -78,7 +78,7 @@ async function getServerData() {
             success: false,
             title: "OFFLINE",
             favicon: getFavicon('#c22d22'),
-            content: `СЕРВЕР НЕДОСТУПЕН\nОшибка: ${e.message}\n\n(Попытка обновления: ${new Date().toLocaleTimeString()})`
+            content: `СЕРВЕР НЕДОСТУПЕН\nОшибка: ${e.message}`
         };
     }
 }
@@ -96,14 +96,15 @@ const server = http.createServer(async (req, res) => {
         res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
 
         const initialIcon = getFavicon('#333'); 
-        const html = `<!DOCTYPE html>
+        const html = `
+        <!DOCTYPE html>
         <html lang="ru">
         <head>
             <meta charset="UTF-8">
             <title>Загрузка...</title>
             <link id="fav" rel="icon" href="${initialIcon}" type="image/svg+xml">
             <style>
-                body { margin: 0; background: #111; color: #eee; font-family: Consolas, monospace; font-size: 14px; }
+                body { margin: 0; background: #111; color: #eee; font-family: Consolas, monospace; font-size: 1em; }
                 pre { padding: 20px; margin: 0; white-space: pre-wrap; }
             </style>
         </head>
