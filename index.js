@@ -38,6 +38,7 @@ async function getServerData() {
         text += `Map:     ${state.map}\n`;
         text += `Players: ${state.players.length} / ${state.maxplayers}\n`;
         text += `Ping:    ${state.ping} ms\n`;
+        text += `\n`;
         // text += `--------------------------------------\n\n`;
 
         if (hasPlayers) {
