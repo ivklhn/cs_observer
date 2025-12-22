@@ -28,7 +28,6 @@ async function getServerData() {
             maxAttempts: 2,
             socketTimeout: 2000
         });
-
         const hasPlayers = state.players.length > 0;
         const iconColor = hasPlayers ? '#2d43d4' : '#666666';
         
@@ -43,30 +42,22 @@ async function getServerData() {
 
         if (hasPlayers) {
             const sorted = state.players.sort((a, b) => (b.score || 0) - (a.score || 0) || (b.time || 0) - (a.time || 0));
-            text += `№   ФРАГИ   ВРЕМЯ    НИКНЕЙМ\n`;
-            console.log(sorted)
+            
+            text += `№   FRAGS    TIME    NICKNAME\n`;
             sorted.forEach((p, i) => {
-                console.log(p)
-                const rawScore = (p.score ?? 0);
-                const rawTime = (p.time ?? 0);
-                
-                const num = (i + 1).toString().padEnd(3);
-                const score = rawScore.toString().padEnd(7);
-                
+                const rawScore = (p.raw.score ?? 0);
+                const rawTime = (p.raw.time ?? 0);
+                const num = (i + 1).toString().padEnd(4);
+                const score = rawScore.toString().padEnd(9);
                 const hours = Math.floor(rawTime / 3600);
                 const mins = Math.floor((rawTime % 3600) / 60);
                 const timeStr = `${hours}ч ${mins}м`.padEnd(8);
-                
-                // Экранирование HTML не нужно, так как мы вставим это как textContent, а не innerHTML
                 const safeName = p.name || '<подключение>'; 
-                text += `${num} ${score} ${timeStr} ${safeName}\n`;
+                text += `${num}${score}${timeStr}${safeName}\n`;
             });
         } else {
             text += `На сервере никого нет :(\n`;
         }
-        
-        // text += `\nОбновлено: ${new Date().toLocaleTimeString()}`;
-
         return {
             success: true,
             title: `${state.players.length} players : ${state.map}`,
