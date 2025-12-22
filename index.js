@@ -51,7 +51,7 @@ async function getServerData() {
                 const score = rawScore.toString().padEnd(9);
                 const hours = Math.floor(rawTime / 3600);
                 const mins = Math.floor((rawTime % 3600) / 60);
-                const timeStr = `${hours}ч ${mins}м`.padEnd(8);
+                const timeStr = `${hours}h ${mins}m`.padEnd(8);
                 const safeName = p.name || '<подключение>'; 
                 text += `${num}${score}${timeStr}${safeName}\n`;
             });
