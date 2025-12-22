@@ -59,7 +59,6 @@ async function getServerData() {
         } else {
             text += `На сервере никого нет :(\n`;
         }
-        text += `\n`;
         return {
             success: true,
             title: `${state.players.length} players : ${state.map}`,
@@ -99,7 +98,7 @@ const server = http.createServer(async (req, res) => {
             <link id="fav" rel="icon" href="${initialIcon}" type="image/svg+xml">
             <style>
                 body { display: inline-table; margin: 0; padding: 2.8vw; background: #111; color: #eee; font-family: Consolas, monospace; font-size: 2.8vw; white-space: pre-wrap; }
-                pre { padding: 0; }
+                pre { padding: inherit; }
                 a { color: inherit; text-decoration: none; }
             </style>
         </head>
