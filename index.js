@@ -30,7 +30,7 @@ async function getServerData() {
         });
 
         const hasPlayers = state.players.length > 0;
-        const iconColor = hasPlayers ? '#2ecc71' : '#e74c3c';
+        const iconColor = hasPlayers ? '#2d43d4' : '#666666';
         
         // Формируем текстовый блок
         let text = '';
@@ -39,7 +39,7 @@ async function getServerData() {
         text += `КАРТА:   ${state.map}\n`;
         text += `ИГРОКИ:  ${state.players.length} / ${state.maxplayers}\n`;
         text += `ПИНГ:    ${state.ping} ms\n`;
-        text += `----------------------------------------\n`;
+        text += `--------------------------------------\n`;
 
         if (hasPlayers) {
             const sorted = state.players.sort((a, b) => (b.score || 0) - (a.score || 0) || (b.time || 0) - (a.time || 0));
@@ -68,7 +68,7 @@ async function getServerData() {
 
         return {
             success: true,
-            title: `${state.players.length} players | ${state.map}`,
+            title: `${state.players.length} players : ${state.map}`,
             favicon: getFavicon(iconColor),
             content: text
         };
@@ -77,7 +77,7 @@ async function getServerData() {
         return {
             success: false,
             title: "OFFLINE",
-            favicon: getFavicon('#95a5a6'), // Серый
+            favicon: getFavicon('#c22d22'),
             content: `СЕРВЕР НЕДОСТУПЕН\nОшибка: ${e.message}\n\n(Попытка обновления: ${new Date().toLocaleTimeString()})`
         };
     }
