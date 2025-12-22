@@ -4,7 +4,7 @@ const { GameDig } = require('gamedig');
 const CONFIG = {
     host: '46.174.49.29', // Только IP адрес
     port: 27204,          // Только Порт (цифрами)
-    webPort: 3030,
+    webPort: process.env.PORT,
     refreshRate: 10
 };
 
