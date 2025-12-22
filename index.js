@@ -44,7 +44,7 @@ async function getServerData() {
         if (hasPlayers) {
             const sorted = state.players.sort((a, b) => (b.score || 0) - (a.score || 0) || (b.time || 0) - (a.time || 0));
             
-            text += `#   🕗       💀     😈\n`;
+            text += `#   🕗      💀     😈\n`;
             sorted.forEach((p, i) => {
                 const rawScore = (p.raw.score ?? 0);
                 const rawTime = (p.raw.time ?? 0);
@@ -103,7 +103,7 @@ const server = http.createServer(async (req, res) => {
         </head>
         <body>
             <pre id="info">Загрузка данных...</pre>
-
+            <a href="https://t.me/cs_poolday">@cs_poolday</a>
             <script>
                 async function update() {
                     try {
