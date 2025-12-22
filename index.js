@@ -64,7 +64,7 @@ async function getServerData() {
             text += `На сервере никого нет :(\n`;
         }
         
-        text += `\nОбновлено: ${new Date().toLocaleTimeString()}`;
+        // text += `\nОбновлено: ${new Date().toLocaleTimeString()}`;
 
         return {
             success: true,
