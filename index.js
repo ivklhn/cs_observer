@@ -44,8 +44,9 @@ async function getServerData() {
         if (hasPlayers) {
             const sorted = state.players.sort((a, b) => (b.score || 0) - (a.score || 0) || (b.time || 0) - (a.time || 0));
             text += `№   ФРАГИ   ВРЕМЯ    НИКНЕЙМ\n`;
-            
+            console.log(sorted)
             sorted.forEach((p, i) => {
+                console.log(p)
                 const rawScore = (p.score ?? 0);
                 const rawTime = (p.time ?? 0);
                 
