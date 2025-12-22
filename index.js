@@ -64,11 +64,11 @@ async function getServerData() {
             text += `На сервере никого нет :(\n`;
         }
         
-        text += `\n(Обновлено: ${new Date().toLocaleTimeString()})`;
+        text += `\nОбновлено: ${new Date().toLocaleTimeString()}`;
 
         return {
             success: true,
-            title: `${state.players.length}/${state.maxplayers} - ${state.map}`,
+            title: `${state.players.length} players | ${state.map}`,
             favicon: getFavicon(iconColor),
             content: text
         };
@@ -94,10 +94,8 @@ const server = http.createServer(async (req, res) => {
     // 2. Главная страница: Отдает статический HTML с JS-скриптом
     if (req.url === '/') {
         res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
-        
-        // Начальная иконка (серый круг, пока грузится)
-        const initialIcon = getFavicon('#333'); 
 
+        const initialIcon = getFavicon('#333'); 
         const html = `<!DOCTYPE html>
         <html lang="ru">
         <head>
@@ -110,7 +108,7 @@ const server = http.createServer(async (req, res) => {
             </style>
         </head>
         <body>
-            <pre id="info">Загрузка данных сервера...</pre>
+            <pre id="info">Загрузка данных...</pre>
 
             <script>
                 async function update() {
@@ -144,8 +142,6 @@ const server = http.createServer(async (req, res) => {
         
         return res.end(html);
     }
-
-    // Игнорируем остальные запросы (например, favicon.ico браузер может сам запросить)
     res.writeHead(404);
     res.end();
 });
