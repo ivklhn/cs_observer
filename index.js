@@ -104,7 +104,7 @@ const server = http.createServer(async (req, res) => {
             <title>Загрузка...</title>
             <link id="fav" rel="icon" href="${initialIcon}" type="image/svg+xml">
             <style>
-                body { margin: 0; background: #111; color: #eee; font-family: Consolas, monospace; font-size: 1em; }
+                body { box-sizing: border-box; margin: 0; background: #111; color: #eee; font-family: Consolas, monospace; font-size: 1em; }
                 pre { padding: 20px; margin: 0; white-space: pre-wrap; }
             </style>
         </head>
