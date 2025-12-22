@@ -38,7 +38,7 @@ async function getServerData() {
         text += `Map:     ${state.map}\n`;
         text += `Players: ${state.players.length} / ${state.maxplayers}\n`;
         text += `Ping:    ${state.ping} ms\n`;
-        text += `--------------------------------------\n\n`;
+        // text += `--------------------------------------\n\n`;
 
         if (hasPlayers) {
             const sorted = state.players.sort((a, b) => (b.score || 0) - (a.score || 0) || (b.time || 0) - (a.time || 0));
