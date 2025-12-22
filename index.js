@@ -98,8 +98,8 @@ const server = http.createServer(async (req, res) => {
             <link id="fav" rel="icon" href="${initialIcon}" type="image/svg+xml">
             <style>
                 body { display: inline-table; margin: 0; padding: 2.8vw; background: #111; color: #eee; font-family: Consolas, monospace; font-size: 2.8vw; white-space: pre-wrap; }
-                pre { padding: inherit; }
-                a { color: inherit; text-decoration: none; }
+                pre { padding: 0; padding-bottom: inherit; }
+                a { padding: 0; padding-bottom: inherit; color: inherit; text-decoration: none; }
             </style>
         </head>
         <body>
