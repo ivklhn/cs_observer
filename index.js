@@ -59,6 +59,7 @@ async function getServerData() {
         } else {
             text += `На сервере никого нет :(\n`;
         }
+        text += `\n`;
         return {
             success: true,
             title: `${state.players.length} players : ${state.map}`,
@@ -97,14 +98,14 @@ const server = http.createServer(async (req, res) => {
             <title>Загрузка...</title>
             <link id="fav" rel="icon" href="${initialIcon}" type="image/svg+xml">
             <style>
-                body { margin: 0; padding: 2.8vw; background: #111; color: #eee; font-family: Consolas, monospace; font-size: 2.8vw; white-space: pre-wrap; }
-                pre {  margin: 0;  }
-                a { color: inherit; }
+                body { display: inline-table; margin: 0; padding: 2.8vw; background: #111; color: #eee; font-family: Consolas, monospace; font-size: 2.8vw; white-space: pre-wrap; }
+                pre { padding: 0; }
+                a { color: inherit; text-decoration: none; }
             </style>
         </head>
         <body>
             <pre id="info">Загрузка данных...</pre>
-            <a href="https://t.me/cs_poolday">@cs_poolday</a>
+            <a href="https://t.me/cs_poolday">t.me/cs_poolday</a>
             <script>
                 async function update() {
                     try {
