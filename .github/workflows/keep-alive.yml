@@ -1,0 +1,9 @@
+name: Keep-Alive
+on:
+  schedule:
+    - cron: '*/10 * * * *' # Каждые 10 минут
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - run: curl https://cs-observer.onrender.com
