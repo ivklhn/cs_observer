@@ -1,7 +1,8 @@
 name: Keep-Alive
 on:
   schedule:
-    - cron: '*/1 * * * *' # Каждые 10 минут
+    - cron: '*/8 * * * *' # Каждые 8 минут
+  workflow_dispatch: # ← Это добавит кнопку "Run workflow"
 jobs:
   ping:
     runs-on: ubuntu-latest
