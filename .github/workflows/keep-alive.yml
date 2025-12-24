@@ -1,7 +1,7 @@
 name: Keep-Alive
 on:
   schedule:
-    - cron: '*/8 * * * *' # Каждые 8 минут
+    - cron: '*/12 * * * *' # Каждые 12 минут
   workflow_dispatch: # ← Это добавит кнопку "Run workflow"
 jobs:
   ping:
