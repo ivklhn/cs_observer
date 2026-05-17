@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CS 1.6 Monitor</title>
+  <link rel="icon" href="data:," id="favicon">
+  <style>
+    :root { --bg: #0b0b0d; --card: #151518; --text: #e5e5e5; --muted: #888; --accent: #3b82f6; --green: #22c55e; --red: #ef4444; }
+    body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; display: flex; justify-content: center; }
+    .wrap { max-width: 700px; width: 100%; }
+    .header { background: var(--card); padding: 20px; border-radius: 12px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px; }
+    .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; margin-right: 6px; box-shadow: 0 0 6px currentColor; }
+    .meta { color: var(--muted); font-size: 0.9rem; margin-top: 6px; display: flex; gap: 15px; }
+    .btn { background: var(--accent); color: #fff; padding: 10px 18px; border-radius: 8px; text-decoration: none; font-weight: 500; }
+    .btn:hover { opacity: 0.9; }
+    .list { background: var(--card); border-radius: 12px; overflow: hidden; margin-top: 15px; }
+    .row { display: grid; grid-template-columns: 30px 1fr 70px 90px; padding: 12px 20px; border-bottom: 1px solid #2a2a2d; align-items: center; }
+    .head { background: #1e1e22; font-weight: 600; font-size: 0.8rem; color: var(--muted); text-transform: uppercase; }
+    .score { color: #fbbf24; font-weight: bold; }
+    .time { color: var(--muted); font-family: monospace; }
+    .footer { text-align: center; margin-top: 20px; color: var(--muted); font-size: 0.8rem; }
+    .err { text-align: center; padding: 40px; color: var(--red); }
+    @media(max-width:500px){ .row,.head{grid-template-columns:20px 1fr 60px} .row>:last-child,.head>:last-child{display:none} }
+  </style>
+</head>
+<body>
+  <div class="wrap" id="app">Загрузка...</div>
+  <script>
+    const esc = t => String(t).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    async function fetchStatus() {
+      try {
+        const res = await fetch('./status.json?t=' + Date.now());
+        const d = await res.json();
+        render(d);
+      } catch { document.getElementById('app').innerHTML = '<div class="err">⚠️ Ошибка загрузки</div>'; }
+    }
+    function render(d) {
+      if (!d.online) { document.getElementById('app').innerHTML = `<div class="err"><h2>📡 Оффлайн</h2><p>${esc(d.error)}</p></div>`; return; }
+      document.title = d.title;
+      document.getElementById('favicon').href = d.favicon;
+      const rows = d.playersList.map((p,i) => `<div class="row"><div>${i+1}</div><div>${esc(p.name)}</div><div class="score">${p.score}</div><div class="time">${p.time}</div></div>`).join('');
+      document.getElementById('app').innerHTML = `
+        <div class="header">
+          <div><h2 style="margin:0"><span class="dot" style="color:var(--green);background:var(--green)"></span>${esc(d.server.map)}</h2>
+          <div class="meta"><span>👥 ${d.server.players}/${d.server.maxPlayers}</span><span>📶 ${d.server.ping} ms</span><span>🕒 ${new Date().toLocaleTimeString('ru-RU',{hour:'2-digit',minute:'2-digit'})}</span></div></div>
+          <a href="steam://connect/${d.server.connect}" class="btn">▶ Подключиться</a>
+        </div>
+        <div class="list">
+          <div class="row head"><div>#</div><div>Игрок</div><div>Фраги</div><div>Время</div></div>
+          ${rows || '<div class="row" style="justify-content:center;color:var(--muted)">Нет игроков</div>'}
+        </div>
+        <div class="footer"><a href="https://t.me/cs_poolday" target="_blank">T.ME/CS_POOLDAY</a></div>`;
+    }
+    fetchStatus(); setInterval(fetchStatus, 30000);
+  </script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+name: Update Status
+on:
+  schedule: [{ cron: '*/3 * * * *' }]
+  workflow_dispatch:
+  push: { branches: [main] }
+permissions: { contents: write }
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - run: npm init -y && npm install gamedig
+      - run: node update.js
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@github.com"
+          git add status.json
+          git diff --cached --quiet || git commit -m "update status"
+          git push
