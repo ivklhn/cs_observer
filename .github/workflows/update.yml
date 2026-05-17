@@ -1,6 +1,6 @@
 name: Update Status
 on:
-  schedule: [{ cron: '*/3 * * * *' }]
+  schedule: [{ cron: '*/5 * * * *' }]
   workflow_dispatch:
   push: { branches: [main] }
 permissions: { contents: write }
