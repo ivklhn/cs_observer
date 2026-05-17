@@ -1,8 +1,10 @@
 name: Update Status
 on:
-  schedule: [{ cron: '*/5 * * * *' }]
+  schedule:
+    - cron: '*/5 * * * *'
   workflow_dispatch:
-permissions: { contents: write }
+permissions:
+  contents: write
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 
@@ -12,22 +14,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-        with: { node-version: '20' }
+        with:
+          node-version: '20'
       - run: npm init -y && npm install gamedig
       - run: node update.js
       - name: Debug
         run: |
-          echo "📁 Файлы:" && ls -la
-          echo "📄 status.json:" && cat status.json 2>/dev/null || echo "(не создан)"
+          echo "=== Files ===" && ls -la
+          echo "=== status.json ===" && cat status.json 2>/dev/null || echo "(not found)"
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add status.json
           if git diff --cached --quiet; then
-            echo "✅ Без изменений"
+            echo "✅ No changes"
           else
-            git commit -m "chore: update"
+            git commit -m "chore: update status"
             git push
             echo "🚀 Pushed"
           fi
