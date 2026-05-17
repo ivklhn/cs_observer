@@ -2,23 +2,48 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 180,
-    "players": 2,
+    "ping": 137,
+    "players": 7,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
       "name": "Johnny",
-      "score": 3,
-      "time": "0h 3m"
+      "score": 135,
+      "time": "1h 3m"
     },
     {
-      "name": "Darth Vader",
-      "score": 0,
-      "time": "0h 9m"
+      "name": "AbsoIutus",
+      "score": 83,
+      "time": "0h 30m"
+    },
+    {
+      "name": "ой бля",
+      "score": 77,
+      "time": "0h 23m"
+    },
+    {
+      "name": "KUZBASS__142__RUS__!!!",
+      "score": 30,
+      "time": "0h 8m"
+    },
+    {
+      "name": "Dimon02195",
+      "score": 25,
+      "time": "0h 8m"
+    },
+    {
+      "name": "БОТ Владимир",
+      "score": 19,
+      "time": "0h 13m"
+    },
+    {
+      "name": "MATPOCKuH",
+      "score": 7,
+      "time": "0h 16m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjI8L3RleHQ+PC9zdmc+",
-  "title": "[2/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjc8L3RleHQ+PC9zdmc+",
+  "title": "[7/17] fy_pool_day"
 }
