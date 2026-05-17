@@ -2,48 +2,58 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 137,
-    "players": 7,
+    "ping": 181,
+    "players": 9,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "Johnny",
-      "score": 135,
-      "time": "1h 3m"
-    },
-    {
       "name": "AbsoIutus",
-      "score": 83,
-      "time": "0h 30m"
-    },
-    {
-      "name": "ой бля",
-      "score": 77,
-      "time": "0h 23m"
-    },
-    {
-      "name": "KUZBASS__142__RUS__!!!",
-      "score": 30,
-      "time": "0h 8m"
-    },
-    {
-      "name": "Dimon02195",
-      "score": 25,
-      "time": "0h 8m"
+      "score": 97,
+      "time": "1h 33m"
     },
     {
       "name": "БОТ Владимир",
-      "score": 19,
-      "time": "0h 13m"
+      "score": 65,
+      "time": "0h 46m"
     },
     {
-      "name": "MATPOCKuH",
-      "score": 7,
+      "name": "С двух лет в КС .",
+      "score": 53,
+      "time": "0h 44m"
+    },
+    {
+      "name": "MaTa Xapu",
+      "score": 25,
+      "time": "0h 24m"
+    },
+    {
+      "name": "Герман 40 РУС",
+      "score": 24,
+      "time": "0h 15m"
+    },
+    {
+      "name": "graf",
+      "score": 17,
       "time": "0h 16m"
+    },
+    {
+      "name": "Abigor",
+      "score": 8,
+      "time": "0h 9m"
+    },
+    {
+      "name": "Naked",
+      "score": 1,
+      "time": "0h 2m"
+    },
+    {
+      "name": "Ya s ruletom na balkone",
+      "score": 0,
+      "time": "0h 58m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjc8L3RleHQ+PC9zdmc+",
-  "title": "[7/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjk8L3RleHQ+PC9zdmc+",
+  "title": "[9/17] fy_pool_day"
 }
