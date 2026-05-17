@@ -2,31 +2,31 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 129,
+    "ping": 169,
     "players": 4,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "Naked",
-      "score": 2,
-      "time": "0h 2m"
+      "name": "G A S",
+      "score": 46,
+      "time": "0h 15m"
     },
     {
-      "name": "ZZR",
-      "score": 1,
-      "time": "0h 38m"
+      "name": "HukoTuH",
+      "score": 30,
+      "time": "0h 41m"
     },
     {
       "name": "Ya s ruletom na balkone",
       "score": 0,
-      "time": "2h 6m"
+      "time": "2h 51m"
     },
     {
       "name": "БОТ Владимир",
       "score": 0,
-      "time": "1h 54m"
+      "time": "2h 39m"
     }
   ],
   "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjQ8L3RleHQ+PC9zdmc+",
