@@ -2,46 +2,46 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 126,
+    "ping": 173,
     "players": 7,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "MATPOCKuH",
-      "score": 51,
-      "time": "0h 23m"
-    },
-    {
-      "name": "fm.",
-      "score": 29,
-      "time": "0h 13m"
-    },
-    {
-      "name": "IRON 6.3",
-      "score": 13,
-      "time": "0h 5m"
-    },
-    {
-      "name": "EnxiameB",
-      "score": 10,
-      "time": "0h 5m"
-    },
-    {
-      "name": "stalker71",
-      "score": 7,
-      "time": "0h 2m"
-    },
-    {
-      "name": "laplatko",
-      "score": 5,
-      "time": "0h 3m"
+      "name": "Johnny",
+      "score": 135,
+      "time": "0h 48m"
     },
     {
       "name": "4444",
-      "score": 0,
-      "time": "0h 0m"
+      "score": 132,
+      "time": "0h 53m"
+    },
+    {
+      "name": "IRON 6.3",
+      "score": 125,
+      "time": "1h 55m"
+    },
+    {
+      "name": "Bama_Boy",
+      "score": 38,
+      "time": "0h 21m"
+    },
+    {
+      "name": "Vincent",
+      "score": 23,
+      "time": "0h 19m"
+    },
+    {
+      "name": "Kanzafar",
+      "score": 5,
+      "time": "0h 5m"
+    },
+    {
+      "name": "PROpan",
+      "score": 5,
+      "time": "0h 2m"
     }
   ],
   "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjc8L3RleHQ+PC9zdmc+",
