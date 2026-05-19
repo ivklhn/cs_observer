@@ -2,48 +2,43 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 180,
-    "players": 7,
+    "ping": 188,
+    "players": 6,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
       "name": "Johnny",
-      "score": 149,
-      "time": "1h 1m"
+      "score": 4,
+      "time": "0h 0m"
     },
     {
-      "name": "IRON 6.3",
-      "score": 141,
-      "time": "1h 5m"
-    },
-    {
-      "name": "Askeets*Latvia",
-      "score": 72,
-      "time": "0h 41m"
-    },
-    {
-      "name": "17-IM-03",
-      "score": 21,
-      "time": "0h 17m"
-    },
-    {
-      "name": "4444",
-      "score": 12,
-      "time": "0h 9m"
-    },
-    {
-      "name": "fm.",
+      "name": "Kindra",
       "score": 2,
-      "time": "0h 2m"
+      "time": "0h 15m"
+    },
+    {
+      "name": "G A S",
+      "score": 1,
+      "time": "1h 25m"
+    },
+    {
+      "name": "гогуля",
+      "score": 1,
+      "time": "0h 34m"
+    },
+    {
+      "name": "Jackson",
+      "score": 1,
+      "time": "0h 10m"
     },
     {
       "name": "S_A_N_E_K_888",
       "score": 0,
-      "time": "5h 27m"
+      "time": "7h 1m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjc8L3RleHQ+PC9zdmc+",
-  "title": "[7/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjY8L3RleHQ+PC9zdmc+",
+  "title": "[6/17] fy_pool_day"
 }
