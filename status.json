@@ -2,68 +2,12 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 125,
-    "players": 11,
+    "ping": 153,
+    "players": 0,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
-  "playersList": [
-    {
-      "name": "Ya s ruletom na balkone",
-      "score": 151,
-      "time": "0h 48m"
-    },
-    {
-      "name": "SukaIdealno",
-      "score": 112,
-      "time": "0h 51m"
-    },
-    {
-      "name": "Designer152",
-      "score": 104,
-      "time": "0h 52m"
-    },
-    {
-      "name": "4444",
-      "score": 95,
-      "time": "0h 46m"
-    },
-    {
-      "name": "Johnny",
-      "score": 56,
-      "time": "0h 19m"
-    },
-    {
-      "name": "Jackson",
-      "score": 36,
-      "time": "0h 30m"
-    },
-    {
-      "name": "Володя",
-      "score": 30,
-      "time": "0h 17m"
-    },
-    {
-      "name": "MR SWEDEN",
-      "score": 28,
-      "time": "0h 15m"
-    },
-    {
-      "name": "Admin",
-      "score": 22,
-      "time": "0h 11m"
-    },
-    {
-      "name": "ENZ",
-      "score": 19,
-      "time": "0h 9m"
-    },
-    {
-      "name": "Maxx",
-      "score": 3,
-      "time": "0h 1m"
-    }
-  ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9IjU1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjExPC90ZXh0Pjwvc3ZnPg==",
-  "title": "[11/17] fy_pool_day"
+  "playersList": [],
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjNTI1MjViIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjA8L3RleHQ+PC9zdmc+",
+  "title": "[0/17] fy_pool_day"
 }
