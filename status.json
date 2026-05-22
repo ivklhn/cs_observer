@@ -2,43 +2,73 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 130,
-    "players": 6,
+    "ping": 181,
+    "players": 12,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "Ravshan",
-      "score": 142,
-      "time": "0h 55m"
+      "name": "БОТичелло",
+      "score": 138,
+      "time": "1h 19m"
+    },
+    {
+      "name": "AgniGames*Latvia",
+      "score": 125,
+      "time": "1h 23m"
+    },
+    {
+      "name": "Pyata4ok",
+      "score": 122,
+      "time": "1h 5m"
+    },
+    {
+      "name": "Askeets*Latvia",
+      "score": 117,
+      "time": "1h 23m"
+    },
+    {
+      "name": "Володя",
+      "score": 107,
+      "time": "0h 44m"
+    },
+    {
+      "name": "~3OMBIE~",
+      "score": 84,
+      "time": "0h 31m"
     },
     {
       "name": "K P A C U B O",
-      "score": 60,
-      "time": "0h 54m"
+      "score": 80,
+      "time": "2h 18m"
     },
     {
-      "name": "fizkultprivet",
-      "score": 60,
-      "time": "0h 21m"
+      "name": "Jackson",
+      "score": 69,
+      "time": "0h 38m"
     },
     {
-      "name": "fm.",
-      "score": 52,
-      "time": "0h 20m"
+      "name": "ZaLuPa KonYa BuduLaYa",
+      "score": 28,
+      "time": "0h 27m"
     },
     {
-      "name": "Bama_Boy",
-      "score": 43,
-      "time": "0h 26m"
+      "name": "17-IM-03",
+      "score": 26,
+      "time": "0h 22m"
     },
     {
-      "name": "IRON 6.3",
-      "score": 14,
-      "time": "0h 8m"
+      "name": "Alexandr",
+      "score": 6,
+      "time": "0h 29m"
+    },
+    {
+      "name": "LIMON",
+      "score": 0,
+      "time": "0h 1m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjY8L3RleHQ+PC9zdmc+",
-  "title": "[6/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9IjU1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjEyPC90ZXh0Pjwvc3ZnPg==",
+  "title": "[12/17] fy_pool_day"
 }
