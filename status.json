@@ -3,52 +3,47 @@
   "server": {
     "map": "fy_pool_day",
     "ping": 181,
-    "players": 8,
+    "players": 7,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "IRON 6.3",
-      "score": 35,
-      "time": "0h 22m"
-    },
-    {
-      "name": "Maxx",
-      "score": 33,
-      "time": "0h 21m"
-    },
-    {
-      "name": "Darth Vader",
-      "score": 22,
-      "time": "0h 16m"
-    },
-    {
       "name": "Johnny",
-      "score": 19,
-      "time": "0h 7m"
-    },
-    {
-      "name": "Герман 40 РУС",
-      "score": 16,
-      "time": "0h 13m"
-    },
-    {
-      "name": "Designer152",
-      "score": 16,
-      "time": "0h 9m"
+      "score": 208,
+      "time": "1h 13m"
     },
     {
       "name": "Ya s ruletom na balkone",
-      "score": 13,
-      "time": "0h 2m"
+      "score": 185,
+      "time": "1h 8m"
     },
     {
       "name": "4444",
-      "score": 5,
-      "time": "0h 3m"
+      "score": 159,
+      "time": "1h 9m"
+    },
+    {
+      "name": "](озерог",
+      "score": 90,
+      "time": "0h 42m"
+    },
+    {
+      "name": "onetwo",
+      "score": 72,
+      "time": "0h 36m"
+    },
+    {
+      "name": "G A S",
+      "score": 42,
+      "time": "0h 22m"
+    },
+    {
+      "name": "Jackson",
+      "score": 32,
+      "time": "0h 18m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjg8L3RleHQ+PC9zdmc+",
-  "title": "[8/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjc8L3RleHQ+PC9zdmc+",
+  "title": "[7/17] fy_pool_day"
 }
