@@ -2,7 +2,7 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 129,
+    "ping": 130,
     "players": 7,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
@@ -10,38 +10,38 @@
   "playersList": [
     {
       "name": "Johnny",
-      "score": 86,
-      "time": "0h 19m"
-    },
-    {
-      "name": "Dimon02195",
-      "score": 70,
-      "time": "0h 56m"
+      "score": 289,
+      "time": "1h 12m"
     },
     {
       "name": "4444",
-      "score": 61,
-      "time": "0h 34m"
+      "score": 187,
+      "time": "1h 27m"
+    },
+    {
+      "name": "Dimon02195",
+      "score": 186,
+      "time": "1h 49m"
     },
     {
       "name": "onetwo",
-      "score": 23,
-      "time": "0h 17m"
-    },
-    {
-      "name": "Awake",
-      "score": 22,
-      "time": "0h 21m"
+      "score": 108,
+      "time": "1h 9m"
     },
     {
       "name": "nothng",
-      "score": 21,
-      "time": "0h 17m"
+      "score": 26,
+      "time": "0h 25m"
     },
     {
-      "name": "47",
-      "score": 9,
-      "time": "0h 4m"
+      "name": "Jackson",
+      "score": 3,
+      "time": "0h 1m"
+    },
+    {
+      "name": "[X_X]SINOPTIK[X_X]",
+      "score": 2,
+      "time": "0h 2m"
     }
   ],
   "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjc8L3RleHQ+PC9zdmc+",
