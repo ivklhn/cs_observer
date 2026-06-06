@@ -2,26 +2,26 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 179,
+    "ping": 126,
     "players": 3,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "Johnny",
-      "score": 24,
-      "time": "1h 26m"
-    },
-    {
-      "name": "Ravshan",
+      "name": "katana",
       "score": 8,
-      "time": "0h 7m"
+      "time": "0h 1m"
     },
     {
       "name": "Darth Vader",
       "score": 0,
-      "time": "1h 23m"
+      "time": "2h 37m"
+    },
+    {
+      "name": "nothng",
+      "score": 0,
+      "time": "0h 4m"
     }
   ],
   "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjM8L3RleHQ+PC9zdmc+",
