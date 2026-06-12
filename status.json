@@ -2,38 +2,28 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 139,
-    "players": 5,
+    "ping": 115,
+    "players": 3,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "fm.",
-      "score": 79,
-      "time": "0h 22m"
+      "name": "petrushka",
+      "score": 16,
+      "time": "0h 21m"
     },
     {
-      "name": "Stuart",
-      "score": 28,
-      "time": "0h 24m"
+      "name": "DEN9",
+      "score": 11,
+      "time": "0h 12m"
     },
     {
-      "name": "Володя",
-      "score": 10,
-      "time": "0h 6m"
-    },
-    {
-      "name": "БОТ Владимир",
-      "score": 0,
-      "time": "2h 25m"
-    },
-    {
-      "name": "Jackson",
-      "score": 0,
-      "time": "0h 0m"
+      "name": "kn0ppix",
+      "score": 1,
+      "time": "0h 1m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjU8L3RleHQ+PC9zdmc+",
-  "title": "[5/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjM8L3RleHQ+PC9zdmc+",
+  "title": "[3/17] fy_pool_day"
 }
