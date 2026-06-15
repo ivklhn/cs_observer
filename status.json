@@ -2,23 +2,38 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 181,
-    "players": 2,
+    "ping": 115,
+    "players": 5,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "(1)Snake",
-      "score": 12,
-      "time": "1h 36m"
+      "name": "KUZBASS__142__RUS__!!!",
+      "score": 94,
+      "time": "0h 29m"
     },
     {
-      "name": "S_A_N_E_K_888",
+      "name": "Боевой Бурят",
+      "score": 51,
+      "time": "0h 19m"
+    },
+    {
+      "name": "Ben_Laden",
+      "score": 34,
+      "time": "0h 18m"
+    },
+    {
+      "name": "Kanzafar",
+      "score": 3,
+      "time": "0h 4m"
+    },
+    {
+      "name": "армяне",
       "score": 0,
-      "time": "1h 36m"
+      "time": "0h 44m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjI8L3RleHQ+PC9zdmc+",
-  "title": "[2/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjU8L3RleHQ+PC9zdmc+",
+  "title": "[5/17] fy_pool_day"
 }
