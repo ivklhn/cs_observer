@@ -2,12 +2,48 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 147,
-    "players": 0,
+    "ping": 122,
+    "players": 7,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
-  "playersList": [],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjNTI1MjViIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjA8L3RleHQ+PC9zdmc+",
-  "title": "[0/17] fy_pool_day"
+  "playersList": [
+    {
+      "name": "fm.",
+      "score": 90,
+      "time": "0h 38m"
+    },
+    {
+      "name": "G A S",
+      "score": 79,
+      "time": "0h 59m"
+    },
+    {
+      "name": "Designer152",
+      "score": 56,
+      "time": "0h 23m"
+    },
+    {
+      "name": "Jackson",
+      "score": 54,
+      "time": "0h 30m"
+    },
+    {
+      "name": "SukaIdealno",
+      "score": 50,
+      "time": "0h 22m"
+    },
+    {
+      "name": "армяне",
+      "score": 34,
+      "time": "0h 15m"
+    },
+    {
+      "name": "Володя",
+      "score": 33,
+      "time": "0h 20m"
+    }
+  ],
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjc8L3RleHQ+PC9zdmc+",
+  "title": "[7/17] fy_pool_day"
 }
