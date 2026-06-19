@@ -2,43 +2,48 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 115,
-    "players": 6,
+    "ping": 164,
+    "players": 7,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "Voenkomat",
-      "score": 53,
-      "time": "0h 16m"
+      "name": "месячные",
+      "score": 55,
+      "time": "0h 20m"
     },
     {
-      "name": "Volandemort",
-      "score": 39,
-      "time": "0h 16m"
+      "name": "Darth Vader",
+      "score": 51,
+      "time": "0h 28m"
     },
     {
-      "name": "AgniGames*Latvia",
+      "name": "Johnny",
+      "score": 47,
+      "time": "0h 9m"
+    },
+    {
+      "name": "Герман 40 РУС",
       "score": 26,
-      "time": "0h 14m"
+      "time": "0h 23m"
     },
     {
-      "name": "Askeets*Latvia",
-      "score": 24,
-      "time": "0h 13m"
+      "name": "47",
+      "score": 23,
+      "time": "0h 7m"
     },
     {
-      "name": "DreaMen",
-      "score": 9,
-      "time": "0h 6m"
+      "name": "TAPAKAH",
+      "score": 18,
+      "time": "0h 12m"
     },
     {
       "name": "Stuart",
-      "score": 6,
-      "time": "0h 14m"
+      "score": 0,
+      "time": "2h 15m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjY8L3RleHQ+PC9zdmc+",
-  "title": "[6/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjc8L3RleHQ+PC9zdmc+",
+  "title": "[7/17] fy_pool_day"
 }
