@@ -2,19 +2,19 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 136,
+    "ping": 131,
     "players": 2,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "Johnny",
-      "score": 2,
-      "time": "0h 1m"
+      "name": "Турист",
+      "score": 0,
+      "time": "0h 3m"
     },
     {
-      "name": "DreaMen",
+      "name": "Pyata4ok",
       "score": 0,
       "time": "0h 0m"
     }
