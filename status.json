@@ -2,23 +2,58 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 199,
-    "players": 2,
+    "ping": 114,
+    "players": 9,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "Snake",
-      "score": 0,
-      "time": "3h 33m"
+      "name": "Dimon02195",
+      "score": 156,
+      "time": "0h 48m"
     },
     {
-      "name": "S_A_N_E_K_888",
-      "score": 0,
-      "time": "3h 25m"
+      "name": "MATPOCKuH",
+      "score": 83,
+      "time": "0h 24m"
+    },
+    {
+      "name": "Darth Vader",
+      "score": 69,
+      "time": "0h 25m"
+    },
+    {
+      "name": "SukaIdealno",
+      "score": 59,
+      "time": "0h 23m"
+    },
+    {
+      "name": "Bama_Boy",
+      "score": 57,
+      "time": "0h 31m"
+    },
+    {
+      "name": "Designer152",
+      "score": 33,
+      "time": "0h 11m"
+    },
+    {
+      "name": "travka",
+      "score": 22,
+      "time": "0h 13m"
+    },
+    {
+      "name": "Л Е П Р Е К О Н",
+      "score": 16,
+      "time": "0h 9m"
+    },
+    {
+      "name": "ZaLuPa KonYa BuduLaYa",
+      "score": 1,
+      "time": "0h 22m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjI8L3RleHQ+PC9zdmc+",
-  "title": "[2/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjk8L3RleHQ+PC9zdmc+",
+  "title": "[9/17] fy_pool_day"
 }
