@@ -2,7 +2,7 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 150,
+    "ping": 132,
     "players": 0,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
