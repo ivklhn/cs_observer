@@ -2,53 +2,68 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 120,
-    "players": 8,
+    "ping": 121,
+    "players": 11,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "fm.",
-      "score": 24,
-      "time": "0h 25m"
+      "name": "Admin",
+      "score": 116,
+      "time": "0h 59m"
     },
     {
-      "name": "IRON 6.3",
-      "score": 11,
-      "time": "0h 36m"
-    },
-    {
-      "name": "Darth Vader",
-      "score": 7,
-      "time": "0h 6m"
+      "name": "~3OMBIE~",
+      "score": 115,
+      "time": "0h 46m"
     },
     {
       "name": "TAPAKAH",
-      "score": 6,
-      "time": "0h 30m"
+      "score": 114,
+      "time": "1h 29m"
     },
     {
       "name": "K P A C U B O",
-      "score": 2,
-      "time": "0h 13m"
+      "score": 95,
+      "time": "1h 12m"
     },
     {
-      "name": "Гойда_Йобанаврот",
-      "score": 0,
-      "time": "1h 6m"
+      "name": "Володя",
+      "score": 70,
+      "time": "0h 25m"
     },
     {
-      "name": "Admin",
-      "score": 0,
-      "time": "0h 0m"
+      "name": "Jackson",
+      "score": 68,
+      "time": "0h 33m"
     },
     {
-      "name": "FYILMAZSOY",
-      "score": 0,
-      "time": "0h 0m"
+      "name": "DEN9",
+      "score": 53,
+      "time": "0h 27m"
+    },
+    {
+      "name": "Ben_Laden",
+      "score": 43,
+      "time": "0h 19m"
+    },
+    {
+      "name": "Demian",
+      "score": 41,
+      "time": "0h 26m"
+    },
+    {
+      "name": "Stuart",
+      "score": 35,
+      "time": "0h 38m"
+    },
+    {
+      "name": "Alexandr",
+      "score": 8,
+      "time": "0h 7m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjg8L3RleHQ+PC9zdmc+",
-  "title": "[8/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9IjU1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjExPC90ZXh0Pjwvc3ZnPg==",
+  "title": "[11/17] fy_pool_day"
 }
