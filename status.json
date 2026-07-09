@@ -2,53 +2,12 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 115,
-    "players": 8,
+    "ping": 116,
+    "players": 0,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
-  "playersList": [
-    {
-      "name": "Johnny",
-      "score": 46,
-      "time": "0h 20m"
-    },
-    {
-      "name": "IRON 6.3",
-      "score": 25,
-      "time": "0h 20m"
-    },
-    {
-      "name": "Ben_Laden",
-      "score": 14,
-      "time": "0h 5m"
-    },
-    {
-      "name": "Voenkomat",
-      "score": 5,
-      "time": "0h 2m"
-    },
-    {
-      "name": "Volandemort",
-      "score": 4,
-      "time": "0h 2m"
-    },
-    {
-      "name": "S_A_N_E_K_888",
-      "score": 1,
-      "time": "4h 58m"
-    },
-    {
-      "name": "Snake",
-      "score": 0,
-      "time": "2h 47m"
-    },
-    {
-      "name": "AUTOELECTRIC",
-      "score": 0,
-      "time": "1h 52m"
-    }
-  ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjg8L3RleHQ+PC9zdmc+",
-  "title": "[8/17] fy_pool_day"
+  "playersList": [],
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjNTI1MjViIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjA8L3RleHQ+PC9zdmc+",
+  "title": "[0/17] fy_pool_day"
 }
