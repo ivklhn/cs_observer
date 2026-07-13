@@ -2,28 +2,12 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 180,
-    "players": 3,
+    "ping": 167,
+    "players": 0,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
-  "playersList": [
-    {
-      "name": "Karim Said",
-      "score": 6,
-      "time": "0h 3m"
-    },
-    {
-      "name": "Герман 40 РУС",
-      "score": 5,
-      "time": "0h 2m"
-    },
-    {
-      "name": "Darth Vader",
-      "score": 0,
-      "time": "1h 13m"
-    }
-  ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjM8L3RleHQ+PC9zdmc+",
-  "title": "[3/17] fy_pool_day"
+  "playersList": [],
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjNTI1MjViIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjA8L3RleHQ+PC9zdmc+",
+  "title": "[0/17] fy_pool_day"
 }
