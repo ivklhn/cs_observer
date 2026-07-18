@@ -2,12 +2,53 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 184,
-    "players": 0,
+    "ping": 180,
+    "players": 8,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
-  "playersList": [],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjNTI1MjViIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjA8L3RleHQ+PC9zdmc+",
-  "title": "[0/17] fy_pool_day"
+  "playersList": [
+    {
+      "name": "Сын Отца",
+      "score": 125,
+      "time": "0h 28m"
+    },
+    {
+      "name": "krik",
+      "score": 50,
+      "time": "0h 27m"
+    },
+    {
+      "name": "БОТ Владимир",
+      "score": 43,
+      "time": "0h 27m"
+    },
+    {
+      "name": "Баркас =)",
+      "score": 35,
+      "time": "0h 15m"
+    },
+    {
+      "name": "your_mom",
+      "score": 35,
+      "time": "0h 13m"
+    },
+    {
+      "name": "xaser",
+      "score": 28,
+      "time": "0h 14m"
+    },
+    {
+      "name": "jnfr",
+      "score": 7,
+      "time": "0h 5m"
+    },
+    {
+      "name": "17-IM-03",
+      "score": 2,
+      "time": "0h 4m"
+    }
+  ],
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjg8L3RleHQ+PC9zdmc+",
+  "title": "[8/17] fy_pool_day"
 }
