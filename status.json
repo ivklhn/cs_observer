@@ -2,51 +2,51 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 202,
+    "ping": 181,
     "players": 8,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
+      "name": "Ya s ruletom na balkone",
+      "score": 54,
+      "time": "0h 15m"
+    },
+    {
       "name": "IRON 7.3",
-      "score": 71,
-      "time": "0h 28m"
-    },
-    {
-      "name": "Ben_Laden",
-      "score": 44,
-      "time": "0h 27m"
-    },
-    {
-      "name": "Kindra",
-      "score": 43,
-      "time": "0h 19m"
-    },
-    {
-      "name": "Johnny",
-      "score": 40,
-      "time": "0h 7m"
-    },
-    {
-      "name": "Stuart",
-      "score": 30,
-      "time": "0h 28m"
-    },
-    {
-      "name": "MR SWEDEN",
-      "score": 18,
-      "time": "0h 13m"
-    },
-    {
-      "name": "Frag Men",
-      "score": 5,
-      "time": "0h 35m"
+      "score": 37,
+      "time": "0h 49m"
     },
     {
       "name": "Darth Vader",
+      "score": 28,
+      "time": "2h 48m"
+    },
+    {
+      "name": "Frag Men",
+      "score": 22,
+      "time": "1h 45m"
+    },
+    {
+      "name": "Dimarik",
+      "score": 19,
+      "time": "0h 24m"
+    },
+    {
+      "name": "[Fine-Boost] player",
+      "score": 16,
+      "time": "0h 25m"
+    },
+    {
+      "name": "4444",
+      "score": 13,
+      "time": "0h 11m"
+    },
+    {
+      "name": "Johnny",
       "score": 0,
-      "time": "1h 39m"
+      "time": "1h 16m"
     }
   ],
   "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjg8L3RleHQ+PC9zdmc+",
