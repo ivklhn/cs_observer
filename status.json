@@ -2,46 +2,46 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 128,
+    "ping": 190,
     "players": 7,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "Johnny",
-      "score": 321,
-      "time": "1h 19m"
-    },
-    {
-      "name": "4444",
-      "score": 121,
-      "time": "0h 49m"
+      "name": "onetwo",
+      "score": 84,
+      "time": "0h 45m"
     },
     {
       "name": "Fysa",
-      "score": 96,
-      "time": "0h 50m"
+      "score": 60,
+      "time": "1h 39m"
     },
     {
-      "name": "wasssed",
-      "score": 49,
-      "time": "0h 25m"
+      "name": "Jackson",
+      "score": 48,
+      "time": "0h 33m"
     },
     {
-      "name": "EgorPistoLetov",
-      "score": 41,
-      "time": "0h 14m"
+      "name": "fm.",
+      "score": 14,
+      "time": "0h 5m"
     },
     {
-      "name": "ZaLuPa KonYa BuduLaYa",
-      "score": 4,
+      "name": "Yakudza",
+      "score": 12,
+      "time": "0h 5m"
+    },
+    {
+      "name": "Johnny",
+      "score": 11,
       "time": "0h 4m"
     },
     {
       "name": "KUZBASS__142__RUS",
       "score": 0,
-      "time": "0h 58m"
+      "time": "1h 48m"
     }
   ],
   "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjc8L3RleHQ+PC9zdmc+",
