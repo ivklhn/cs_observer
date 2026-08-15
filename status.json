@@ -2,48 +2,43 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 169,
-    "players": 7,
+    "ping": 119,
+    "players": 6,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
       "name": "БОТ Владимир",
-      "score": 41,
-      "time": "0h 11m"
+      "score": 88,
+      "time": "0h 36m"
     },
     {
-      "name": "chanax",
-      "score": 37,
-      "time": "0h 15m"
+      "name": "EgorPistoLetov",
+      "score": 65,
+      "time": "0h 27m"
+    },
+    {
+      "name": "DON",
+      "score": 27,
+      "time": "0h 40m"
     },
     {
       "name": "Taqi",
       "score": 21,
-      "time": "0h 38m"
+      "time": "1h 3m"
     },
     {
-      "name": "DON",
-      "score": 17,
+      "name": "Rogerthat",
+      "score": 18,
       "time": "0h 15m"
-    },
-    {
-      "name": "EgorPistoLetov",
-      "score": 6,
-      "time": "0h 1m"
     },
     {
       "name": "ц",
       "score": 0,
-      "time": "2h 19m"
-    },
-    {
-      "name": "Snake",
-      "score": 0,
-      "time": "2h 18m"
+      "time": "2h 44m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjc8L3RleHQ+PC9zdmc+",
-  "title": "[7/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjY8L3RleHQ+PC9zdmc+",
+  "title": "[6/17] fy_pool_day"
 }
