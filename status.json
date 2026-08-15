@@ -2,36 +2,36 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 197,
+    "ping": 175,
     "players": 5,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "Dimon02195",
-      "score": 91,
-      "time": "0h 30m"
+      "name": "(((PARADOKS)))",
+      "score": 107,
+      "time": "0h 40m"
     },
     {
       "name": "Jackson",
-      "score": 59,
-      "time": "0h 30m"
-    },
-    {
-      "name": "(((PARADOKS)))",
-      "score": 56,
-      "time": "0h 22m"
+      "score": 79,
+      "time": "0h 48m"
     },
     {
       "name": "MaTa Xapu",
-      "score": 24,
-      "time": "0h 9m"
+      "score": 75,
+      "time": "0h 27m"
+    },
+    {
+      "name": "Kindra",
+      "score": 45,
+      "time": "0h 15m"
     },
     {
       "name": "Alexandr",
-      "score": 8,
-      "time": "0h 9m"
+      "score": 13,
+      "time": "0h 27m"
     }
   ],
   "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjU8L3RleHQ+PC9zdmc+",
