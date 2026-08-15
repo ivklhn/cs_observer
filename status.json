@@ -1,1 +1,34 @@
-{"online":false,"error":"Failed all 2 attempts","favicon":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjZGMyNjI2Ii8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPiE8L3RleHQ+PC9zdmc+","title":"OFFLINE"}
+{
+  "online": true,
+  "server": {
+    "map": "fy_pool_day",
+    "ping": 183,
+    "players": 4,
+    "maxPlayers": 17,
+    "connect": "46.174.49.29:27204"
+  },
+  "playersList": [
+    {
+      "name": "~3OMBIE~",
+      "score": 160,
+      "time": "1h 18m"
+    },
+    {
+      "name": "Jackson",
+      "score": 75,
+      "time": "2h 28m"
+    },
+    {
+      "name": "ADMINSTRATOR",
+      "score": 56,
+      "time": "0h 35m"
+    },
+    {
+      "name": "Alexandr",
+      "score": 55,
+      "time": "2h 7m"
+    }
+  ],
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjQ8L3RleHQ+PC9zdmc+",
+  "title": "[4/17] fy_pool_day"
+}
