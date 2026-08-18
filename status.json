@@ -2,58 +2,68 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 123,
-    "players": 9,
+    "ping": 116,
+    "players": 11,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
       "name": "Johnny",
-      "score": 62,
-      "time": "0h 54m"
-    },
-    {
-      "name": "onetwo",
-      "score": 30,
-      "time": "1h 38m"
+      "score": 139,
+      "time": "1h 11m"
     },
     {
       "name": "4444",
-      "score": 26,
-      "time": "0h 11m"
+      "score": 78,
+      "time": "0h 29m"
     },
     {
-      "name": "i keep getting molested",
-      "score": 22,
-      "time": "0h 10m"
-    },
-    {
-      "name": "ZZR",
-      "score": 19,
-      "time": "0h 18m"
-    },
-    {
-      "name": "Jackson",
-      "score": 13,
-      "time": "1h 8m"
-    },
-    {
-      "name": "Alexandr",
-      "score": 9,
-      "time": "1h 37m"
+      "name": "onetwo",
+      "score": 64,
+      "time": "1h 56m"
     },
     {
       "name": "Yakudza",
-      "score": 6,
-      "time": "0h 4m"
+      "score": 51,
+      "time": "0h 21m"
     },
     {
-      "name": "aL*A",
-      "score": 0,
-      "time": "0h 54m"
+      "name": "i keep getting molested",
+      "score": 46,
+      "time": "0h 28m"
+    },
+    {
+      "name": "ZZR",
+      "score": 38,
+      "time": "0h 36m"
+    },
+    {
+      "name": "Jackson",
+      "score": 28,
+      "time": "1h 26m"
+    },
+    {
+      "name": "Kanzafar",
+      "score": 14,
+      "time": "0h 6m"
+    },
+    {
+      "name": "Alexandr",
+      "score": 12,
+      "time": "1h 55m"
+    },
+    {
+      "name": "ADMINSTRATOR",
+      "score": 7,
+      "time": "0h 11m"
+    },
+    {
+      "name": "Operator",
+      "score": 7,
+      "time": "0h 9m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjk8L3RleHQ+PC9zdmc+",
-  "title": "[9/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9IjU1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjExPC90ZXh0Pjwvc3ZnPg==",
+  "title": "[11/17] fy_pool_day"
 }
