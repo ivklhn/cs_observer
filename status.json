@@ -1,1 +1,59 @@
-{"online":false,"error":"Failed all 2 attempts","favicon":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjZGMyNjI2Ii8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPiE8L3RleHQ+PC9zdmc+","title":"OFFLINE"}
+{
+  "online": true,
+  "server": {
+    "map": "fy_pool_day",
+    "ping": 175,
+    "players": 9,
+    "maxPlayers": 17,
+    "connect": "46.174.49.29:27204"
+  },
+  "playersList": [
+    {
+      "name": "4444",
+      "score": 177,
+      "time": "0h 55m"
+    },
+    {
+      "name": "onetwo",
+      "score": 122,
+      "time": "0h 52m"
+    },
+    {
+      "name": "ZZR",
+      "score": 90,
+      "time": "0h 53m"
+    },
+    {
+      "name": "Jackson",
+      "score": 43,
+      "time": "0h 22m"
+    },
+    {
+      "name": "Designer152",
+      "score": 37,
+      "time": "0h 12m"
+    },
+    {
+      "name": "Alexandr",
+      "score": 30,
+      "time": "0h 51m"
+    },
+    {
+      "name": "Johnny",
+      "score": 28,
+      "time": "0h 8m"
+    },
+    {
+      "name": "aL*A",
+      "score": 15,
+      "time": "0h 8m"
+    },
+    {
+      "name": "BULLDOG-SPIKE",
+      "score": 4,
+      "time": "0h 8m"
+    }
+  ],
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjk8L3RleHQ+PC9zdmc+",
+  "title": "[9/17] fy_pool_day"
+}
