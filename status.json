@@ -2,40 +2,40 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 144,
+    "ping": 135,
     "players": 6,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "ZZR",
-      "score": 72,
-      "time": "0h 43m"
+      "name": "Johnny",
+      "score": 136,
+      "time": "0h 31m"
     },
     {
-      "name": "Johnny",
-      "score": 54,
-      "time": "0h 12m"
+      "name": "ZZR",
+      "score": 93,
+      "time": "1h 2m"
     },
     {
       "name": "Ben_Laden",
-      "score": 46,
-      "time": "0h 25m"
-    },
-    {
-      "name": "Alexandr",
-      "score": 29,
-      "time": "0h 36m"
+      "score": 69,
+      "time": "0h 44m"
     },
     {
       "name": "Jackson",
-      "score": 17,
-      "time": "0h 12m"
+      "score": 54,
+      "time": "0h 31m"
     },
     {
-      "name": "i keep getting molested",
-      "score": 5,
+      "name": "Alexandr",
+      "score": 51,
+      "time": "0h 55m"
+    },
+    {
+      "name": "Боевой Бурят",
+      "score": 11,
       "time": "0h 3m"
     }
   ],
