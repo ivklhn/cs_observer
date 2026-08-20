@@ -2,41 +2,41 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 122,
+    "ping": 175,
     "players": 6,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
+      "name": "fm.",
+      "score": 113,
+      "time": "1h 25m"
+    },
+    {
       "name": "f4",
-      "score": 31,
-      "time": "1h 6m"
+      "score": 84,
+      "time": "1h 32m"
+    },
+    {
+      "name": "Kindra",
+      "score": 83,
+      "time": "0h 25m"
     },
     {
       "name": "~3OMBIE~",
-      "score": 30,
-      "time": "0h 57m"
-    },
-    {
-      "name": "fm.",
-      "score": 28,
-      "time": "0h 58m"
-    },
-    {
-      "name": "ZZR",
-      "score": 25,
-      "time": "0h 55m"
+      "score": 81,
+      "time": "1h 24m"
     },
     {
       "name": "Jackson",
-      "score": 22,
-      "time": "0h 33m"
+      "score": 67,
+      "time": "0h 59m"
     },
     {
-      "name": "Yakudza",
-      "score": 0,
-      "time": "0h 0m"
+      "name": "ZZR",
+      "score": 37,
+      "time": "1h 22m"
     }
   ],
   "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjY8L3RleHQ+PC9zdmc+",
