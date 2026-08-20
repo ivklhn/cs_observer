@@ -2,58 +2,43 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 175,
-    "players": 9,
+    "ping": 122,
+    "players": 6,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "paulnts",
-      "score": 268,
-      "time": "1h 24m"
-    },
-    {
-      "name": "Cyneprepou4uk",
-      "score": 229,
-      "time": "1h 18m"
-    },
-    {
-      "name": "4444",
-      "score": 142,
-      "time": "1h 1m"
-    },
-    {
-      "name": "fm.",
-      "score": 97,
-      "time": "0h 35m"
+      "name": "f4",
+      "score": 31,
+      "time": "1h 6m"
     },
     {
       "name": "~3OMBIE~",
-      "score": 72,
-      "time": "0h 34m"
+      "score": 30,
+      "time": "0h 57m"
     },
     {
-      "name": "f4",
-      "score": 54,
-      "time": "0h 43m"
+      "name": "fm.",
+      "score": 28,
+      "time": "0h 58m"
     },
     {
       "name": "ZZR",
-      "score": 32,
-      "time": "0h 32m"
+      "score": 25,
+      "time": "0h 55m"
     },
     {
       "name": "Jackson",
-      "score": 24,
-      "time": "0h 10m"
+      "score": 22,
+      "time": "0h 33m"
     },
     {
-      "name": "Stuart",
+      "name": "Yakudza",
       "score": 0,
-      "time": "2h 19m"
+      "time": "0h 0m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjk8L3RleHQ+PC9zdmc+",
-  "title": "[9/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjY8L3RleHQ+PC9zdmc+",
+  "title": "[6/17] fy_pool_day"
 }
