@@ -2,48 +2,58 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 121,
-    "players": 7,
+    "ping": 141,
+    "players": 9,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
       "name": "paulnts",
-      "score": 69,
-      "time": "0h 25m"
-    },
-    {
-      "name": "SukaIdealno",
-      "score": 63,
-      "time": "0h 22m"
+      "score": 157,
+      "time": "0h 50m"
     },
     {
       "name": "Cyneprepou4uk",
-      "score": 61,
-      "time": "0h 19m"
-    },
-    {
-      "name": "Yakudza",
-      "score": 9,
-      "time": "0h 0m"
+      "score": 140,
+      "time": "0h 45m"
     },
     {
       "name": "4444",
-      "score": 2,
+      "score": 64,
+      "time": "0h 27m"
+    },
+    {
+      "name": "Володя",
+      "score": 26,
+      "time": "0h 10m"
+    },
+    {
+      "name": "EgorPistoLetov",
+      "score": 20,
+      "time": "0h 9m"
+    },
+    {
+      "name": "f4",
+      "score": 12,
+      "time": "0h 9m"
+    },
+    {
+      "name": "fm.",
+      "score": 11,
       "time": "0h 2m"
+    },
+    {
+      "name": "~3OMBIE~",
+      "score": 4,
+      "time": "0h 1m"
     },
     {
       "name": "Stuart",
       "score": 0,
-      "time": "1h 20m"
-    },
-    {
-      "name": "MR SWEDEN BACK FROM HELL",
-      "score": 0,
-      "time": "0h 4m"
+      "time": "1h 45m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjc8L3RleHQ+PC9zdmc+",
-  "title": "[7/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjk8L3RleHQ+PC9zdmc+",
+  "title": "[9/17] fy_pool_day"
 }
