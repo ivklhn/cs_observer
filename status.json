@@ -2,58 +2,33 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 130,
-    "players": 9,
+    "ping": 177,
+    "players": 4,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
       "name": "ПюрЭ",
-      "score": 131,
-      "time": "0h 36m"
+      "score": 177,
+      "time": "0h 53m"
     },
     {
       "name": "Darth Vader",
-      "score": 126,
-      "time": "0h 46m"
+      "score": 149,
+      "time": "1h 3m"
     },
     {
-      "name": "Vincent",
-      "score": 110,
-      "time": "0h 52m"
+      "name": "Герман 40 РУС",
+      "score": 19,
+      "time": "0h 13m"
     },
     {
       "name": "Big_Bob",
-      "score": 91,
-      "time": "0h 29m"
-    },
-    {
-      "name": "4444",
-      "score": 82,
-      "time": "0h 31m"
-    },
-    {
-      "name": "Mihanikus",
-      "score": 31,
-      "time": "0h 10m"
-    },
-    {
-      "name": "EnxiameB",
-      "score": 10,
-      "time": "0h 11m"
-    },
-    {
-      "name": "Dimon02195",
-      "score": 6,
-      "time": "0h 1m"
-    },
-    {
-      "name": "Stuart",
-      "score": 5,
-      "time": "0h 11m"
+      "score": 7,
+      "time": "0h 2m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjk8L3RleHQ+PC9zdmc+",
-  "title": "[9/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjQ8L3RleHQ+PC9zdmc+",
+  "title": "[4/17] fy_pool_day"
 }
