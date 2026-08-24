@@ -2,53 +2,33 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 191,
-    "players": 8,
+    "ping": 185,
+    "players": 4,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "GAS",
-      "score": 47,
-      "time": "0h 18m"
-    },
-    {
-      "name": "Johnny",
-      "score": 42,
-      "time": "1h 26m"
-    },
-    {
-      "name": "4444",
-      "score": 35,
-      "time": "0h 15m"
-    },
-    {
-      "name": "~3OMBIE~",
-      "score": 35,
-      "time": "0h 14m"
-    },
-    {
-      "name": "EgorPistoLetov",
-      "score": 33,
-      "time": "0h 41m"
-    },
-    {
-      "name": "May0neZzz__",
-      "score": 30,
-      "time": "1h 32m"
-    },
-    {
       "name": "Ya s ruletom na balkone",
-      "score": 17,
-      "time": "0h 11m"
+      "score": 148,
+      "time": "0h 47m"
+    },
+    {
+      "name": "GAS",
+      "score": 105,
+      "time": "0h 54m"
     },
     {
       "name": "BenZion*WiesnZoff",
-      "score": 15,
-      "time": "1h 16m"
+      "score": 68,
+      "time": "1h 53m"
+    },
+    {
+      "name": "onetwo",
+      "score": 20,
+      "time": "0h 12m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjg8L3RleHQ+PC9zdmc+",
-  "title": "[8/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjQ8L3RleHQ+PC9zdmc+",
+  "title": "[4/17] fy_pool_day"
 }
