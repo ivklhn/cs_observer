@@ -2,48 +2,58 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 178,
-    "players": 7,
+    "ping": 184,
+    "players": 9,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
       "name": "fm.",
-      "score": 4,
-      "time": "1h 5m"
-    },
-    {
-      "name": "СЕКАТОР 102",
-      "score": 1,
-      "time": "0h 44m"
-    },
-    {
-      "name": "Vincent",
-      "score": 1,
-      "time": "0h 10m"
-    },
-    {
-      "name": "russkii8814",
-      "score": 1,
-      "time": "0h 3m"
+      "score": 63,
+      "time": "1h 27m"
     },
     {
       "name": "Johnny",
-      "score": 0,
-      "time": "2h 29m"
+      "score": 62,
+      "time": "2h 51m"
     },
     {
-      "name": "f4",
-      "score": 0,
-      "time": "0h 0m"
+      "name": "russkii8814",
+      "score": 59,
+      "time": "0h 25m"
+    },
+    {
+      "name": "Mihanikus",
+      "score": 34,
+      "time": "0h 16m"
     },
     {
       "name": "Jackson",
-      "score": 0,
-      "time": "0h 0m"
+      "score": 20,
+      "time": "0h 22m"
+    },
+    {
+      "name": "MR SWEDEN BACK FROM HELL",
+      "score": 19,
+      "time": "0h 10m"
+    },
+    {
+      "name": "May0neZzz__",
+      "score": 17,
+      "time": "0h 13m"
+    },
+    {
+      "name": "zerkalni",
+      "score": 12,
+      "time": "0h 6m"
+    },
+    {
+      "name": "Alexandr",
+      "score": 10,
+      "time": "0h 17m"
     }
   ],
-  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjc8L3RleHQ+PC9zdmc+",
-  "title": "[7/17] fy_pool_day"
+  "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjk8L3RleHQ+PC9zdmc+",
+  "title": "[9/17] fy_pool_day"
 }
