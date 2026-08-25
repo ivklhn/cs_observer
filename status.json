@@ -2,41 +2,41 @@
   "online": true,
   "server": {
     "map": "fy_pool_day",
-    "ping": 185,
+    "ping": 161,
     "players": 6,
     "maxPlayers": 17,
     "connect": "46.174.49.29:27204"
   },
   "playersList": [
     {
-      "name": "Rocks",
-      "score": 51,
-      "time": "3h 2m"
-    },
-    {
       "name": "Alik",
-      "score": 22,
-      "time": "0h 8m"
+      "score": 107,
+      "time": "0h 40m"
     },
     {
-      "name": "СЕКАТОР 102",
-      "score": 12,
-      "time": "0h 5m"
-    },
-    {
-      "name": "Kanzafar",
-      "score": 7,
-      "time": "0h 6m"
+      "name": "Rocks",
+      "score": 102,
+      "time": "3h 34m"
     },
     {
       "name": "Snake",
-      "score": 2,
-      "time": "3h 18m"
+      "score": 43,
+      "time": "3h 49m"
     },
     {
       "name": "sss",
-      "score": 0,
-      "time": "1h 53m"
+      "score": 35,
+      "time": "2h 25m"
+    },
+    {
+      "name": "Stuart",
+      "score": 29,
+      "time": "0h 30m"
+    },
+    {
+      "name": "Rogerthat",
+      "score": 20,
+      "time": "0h 14m"
     }
   ],
   "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTZhMzRhIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LXNpemU9Ijc1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZmlsbD0iI2ZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPjY8L3RleHQ+PC9zdmc+",
